@@ -24,7 +24,7 @@ main{
 
 .hero-inicio{
     
-    background-image: url("/media/picture/fondo_geometrico.jpg");
+    background-image: url('/media/picture/fondo_geometrico.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
