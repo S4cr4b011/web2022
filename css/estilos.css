@@ -501,9 +501,9 @@ background-repeat: no-repeat;
 @media (max-width: 320px){
 
   #button-up{
-    width: 45px;
-    height: 45px;
-    right: 10px;
+        width: 40px;
+  height: 40px;
+    right: 5px;
   }
 }
 @media (min-width: 576px){
