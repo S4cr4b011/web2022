@@ -5,7 +5,7 @@ window.oncontextmenu = function(){
     return false;
 } 
 
-let sound = new Audio('../media/audio/Feliz Cumpleaños.mp3.webm');
+let sound = new Audio('./media/audio/Feliz Cumpleaños.mp3.webm');
 playBtn.addEventListener('click', ()=>{
     sound.play();
 });
